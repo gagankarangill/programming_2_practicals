@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41b9da81-5955-4c4a-9f3d-4759c89fb37e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41b9da81-5955-4c4a-9f3d-4759c89fb37e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578898763538</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload all practicals">
+      <created>1582096199181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582096199181</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uploading all practicals" />
     <MESSAGE value="prac 3 upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac 3 upload" />
+    <MESSAGE value="upload all practicals" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload all practicals" />
   </component>
 </project>
